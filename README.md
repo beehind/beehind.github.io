@@ -1,4 +1,5 @@
-![beehind.svg](../../raw/main/CASTYPE1652.svg)
+
+<img src="../../raw/main/CASTYPE1652.svg" alt="CASTYPE1652 in some historical context" width="100%" />
 
 *Bee type specimen [CASTYPE1652](https://library.big-bee.net/portal/collections/individual/index.php?occid=2081959), held at the [California Academy of Sciences](https://calacademy.org/), is embedded in a web of historic and ecological connections. We aim to pilot workflows to capture such connections for prominent specimens in citable knowledge packages to accelerate research*
 
