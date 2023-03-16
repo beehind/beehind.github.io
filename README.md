@@ -1,4 +1,4 @@
-![](https://raw.github.com/beehind/beehind.github.io/main/CASTYPE1652.svg) 
+[![](https://raw.github.com/beehind/beehind.github.io/main/CASTYPE1652.svg)](https://raw.github.com/beehind/beehind.github.io/main/CASTYPE1652.svg) 
 *Bee type specimen [CASTYPE1652](https://library.big-bee.net/portal/collections/individual/index.php?occid=2081959), held at the [California Academy of Sciences](https://calacademy.org/), is embedded in a web of historic and ecological connections. We aim to pilot workflows to capture such connections for prominent specimens in citable knowledge packages to accelerate research*
 
 ------------------------
