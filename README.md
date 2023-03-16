@@ -3,12 +3,8 @@
 
 ------------------------
 
+This initiative is currently self funded, and we sent a [Letter of Inquiry](https://drive.google.com/file/d/1LNUQQiiusdPdQhNDXpWNE1ucCObq5EXT/view) to the [Sloan Foundation](https://sloan.org) for support. We receiving ([solicited](https://drive.google.com/file/d/1HKZ5Pa1HwzQjlfzzIcmNIKl9fCGom2NX/view)) encouragement for this from folks associated with the following organizations:
 
-```[Letter of Inquiry](https://drive.google.com/file/d/1LNUQQiiusdPdQhNDXpWNE1ucCObq5EXT/view)```
-
-```[Letter of Support Request](https://drive.google.com/file/d/1HKZ5Pa1HwzQjlfzzIcmNIKl9fCGom2NX/view)```
-
-```Letters of Support```
  * [California Academy of Sciences](https://drive.google.com/file/d/1CLSa5RuERFZ7-UHwtS5zr-O135TvoJOm/view)
  * [UC Santa Barbara Cheadle Center for Biodiversity and Ecological Restoration](https://drive.google.com/file/d/19ihF5Bfjgksy_SbR0t_7BRD216IKTrip/view?usp=share_link)
  * [Milwaukee Public Museum](https://drive.google.com/file/d/1ByQYWf1MzYDLLgnYAxLCxx6hqdN7yUFk/view)
@@ -20,3 +16,6 @@
  * [TDWG](https://drive.google.com/file/d/19H7ZGrUPT-m-1WYOJOtfwRzARAh-Yzbl/view)
  * [Encyclopedia of Life](https://drive.google.com/file/d/120lybR0ldS4Tj1at-ziiUmSVhQI0drD2/view?usp=share_link)
 
+Thank you!
+
+If you'd also like to express your support, or are interested to learn more, please contact [Jorrit](https://jhpoelen.nl) or [Daniel](https://orcid.org/0000-0001-9488-1870).   
