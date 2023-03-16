@@ -1,12 +1,14 @@
 ![](https://raw.github.com/beehind/beehind.github.io/main/CASTYPE1652.svg) 
 *Bee type specimen [CASTYPE1652](https://library.big-bee.net/portal/collections/individual/index.php?occid=2081959), held at the [California Academy of Sciences](https://calacademy.org/), is embedded in a web of historic and ecological connections. We aim to pilot workflows to capture such connections for prominent specimens in citable knowledge packages to accelerate research*
----
 
-[Letter of Intent](https://drive.google.com/file/d/1LNUQQiiusdPdQhNDXpWNE1ucCObq5EXT/view)
+------------------------
 
-[Letter of Support Request](https://drive.google.com/file/d/1HKZ5Pa1HwzQjlfzzIcmNIKl9fCGom2NX/view)
 
-Letters of Support
+```[Letter of Inquiry](https://drive.google.com/file/d/1LNUQQiiusdPdQhNDXpWNE1ucCObq5EXT/view)```
+
+```[Letter of Support Request](https://drive.google.com/file/d/1HKZ5Pa1HwzQjlfzzIcmNIKl9fCGom2NX/view)```
+
+```Letters of Support```
  * [California Academy of Sciences](https://drive.google.com/file/d/1CLSa5RuERFZ7-UHwtS5zr-O135TvoJOm/view)
  * [UC Santa Barbara Cheadle Center for Biodiversity and Ecological Restoration](https://drive.google.com/file/d/19ihF5Bfjgksy_SbR0t_7BRD216IKTrip/view?usp=share_link)
  * [Milwaukee Public Museum](https://drive.google.com/file/d/1ByQYWf1MzYDLLgnYAxLCxx6hqdN7yUFk/view)
