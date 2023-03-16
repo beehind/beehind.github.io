@@ -11,10 +11,10 @@ This initiative is currently self funded, and we sent a [Letter of Inquiry](http
  * [University of Florida](https://drive.google.com/file/d/1jk4tuYySpjkxKue1v3Orj18zzrlKC4Qx/view)
  * [Meise Botanical Garden](https://drive.google.com/file/d/1Nw1PCCr3BdqE8Hqh01p_nKTKcdDFpgM9/view)
  * [Pensoft Publishers](https://drive.google.com/file/d/1_GWSibYbv3AaCHcPyBCKoNkiZP0qXyBV/view)
- * [KnowledgePixels](https://drive.google.com/file/d/1ByQYWf1MzYDLLgnYAxLCxx6hqdN7yUFk/view)
+ * [KnowledgePixels](https://drive.google.com/file/d/1GNjaWSyCsQ-XKmwyQQ6eZ8O_HcJ57wc3/view)
  * [iDigBio](https://drive.google.com/file/d/1XYKZgEtwZmi7sAxoxXsrQpIKVGUG7obz/view)
  * [TDWG](https://drive.google.com/file/d/19H7ZGrUPT-m-1WYOJOtfwRzARAh-Yzbl/view)
- * [Encyclopedia of Life](https://drive.google.com/file/d/120lybR0ldS4Tj1at-ziiUmSVhQI0drD2/view?usp=share_link)
+ * [Encyclopedia of Life](https://drive.google.com/file/d/120lybR0ldS4Tj1at-ziiUmSVhQI0drD2/view)
 
 Thank you!
 
