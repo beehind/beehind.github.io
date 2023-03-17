@@ -3,7 +3,7 @@
 
 ------------------------
 
-This initiative is currently self funded, and we sent a [Letter of Inquiry](https://drive.google.com/file/d/1LNUQQiiusdPdQhNDXpWNE1ucCObq5EXT/view) to the [Sloan Foundation](https://sloan.org) for support. We received ([solicited](https://drive.google.com/file/d/1HKZ5Pa1HwzQjlfzzIcmNIKl9fCGom2NX/view)) encouragement from folks associated with the following organizations:
+This initiative came out of work in the NSF Big-Bee project (NSF#) and the [Open Traits Network](https://opentraits.org/ is currently self funded, and we sent a [Letter of Inquiry](https://drive.google.com/file/d/1LNUQQiiusdPdQhNDXpWNE1ucCObq5EXT/view) to the [Sloan Foundation](https://sloan.org) for support. We received ([solicited](https://drive.google.com/file/d/1HKZ5Pa1HwzQjlfzzIcmNIKl9fCGom2NX/view)) encouragement from folks associated with the following organizations:
 
  * [California Academy of Sciences](https://drive.google.com/file/d/1CLSa5RuERFZ7-UHwtS5zr-O135TvoJOm/view)
  * [UC Santa Barbara Cheadle Center for Biodiversity and Ecological Restoration](https://drive.google.com/file/d/19ihF5Bfjgksy_SbR0t_7BRD216IKTrip/view)
