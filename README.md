@@ -15,6 +15,7 @@ This initiative is currently self funded, and we sent a [Letter of Inquiry](http
  * [iDigBio](https://drive.google.com/file/d/1XYKZgEtwZmi7sAxoxXsrQpIKVGUG7obz/view)
  * [TDWG](https://drive.google.com/file/d/19H7ZGrUPT-m-1WYOJOtfwRzARAh-Yzbl/view)
  * [Encyclopedia of Life](https://drive.google.com/file/d/120lybR0ldS4Tj1at-ziiUmSVhQI0drD2/view)
+ * [Plazi](https://drive.google.com/file/d/1WdEP5xZG1t8nZkJq7dMHx3aUGh0uTRTF/view)
 
 Thank you!
 
