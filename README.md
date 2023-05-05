@@ -6,7 +6,7 @@
 ------------------------
 ### About
 
-This initiative came out of several collaborations, including the NSF [Big-Bee](https://big-bee.net) project [NSF#2102006](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2102006) and the [Open Traits Network](https://opentraits.org). To help accelerate its development, we sent a [Letter of Inquiry](https://drive.google.com/file/d/1LNUQQiiusdPdQhNDXpWNE1ucCObq5EXT/view) to the [Sloan Foundation](https://sloan.org) for support. We received ([solicited](https://drive.google.com/file/d/1HKZ5Pa1HwzQjlfzzIcmNIKl9fCGom2NX/view)) encouragement from folks associated with the following organizations:
+This initiative came out of several collaborations, including the NSF [Big-Bee](https://big-bee.net) project [NSF#2102006](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2102006) and the [Open Traits Network](https://opentraits.org). In a first attempt to practice articulating these ideas to help accelerate its development, we sent a [Letter of Inquiry](https://drive.google.com/file/d/1LNUQQiiusdPdQhNDXpWNE1ucCObq5EXT/view) to the [Sloan Foundation](https://sloan.org) for support on 16 March 2023 and got [a thanks-but-no-thanks reply from the Sloan foundation](https://drive.google.com/file/d/1NJ97L6MY37dZjFWKafva26J8hEk_6w5F/view) on 5 May 2023. In preparing for the letter, we received ([solicited](https://drive.google.com/file/d/1HKZ5Pa1HwzQjlfzzIcmNIKl9fCGom2NX/view)) encouragement from folks associated with the following organizations:
 
  * [California Academy of Sciences](https://drive.google.com/file/d/1CLSa5RuERFZ7-UHwtS5zr-O135TvoJOm/view)
  * [UC Santa Barbara Cheadle Center for Biodiversity and Ecological Restoration](https://drive.google.com/file/d/19ihF5Bfjgksy_SbR0t_7BRD216IKTrip/view)
@@ -22,7 +22,7 @@ This initiative came out of several collaborations, including the NSF [Big-Bee](
 
 Thank you!
 
-If you'd also like to express your support, or are interested to learn more, please contact [Jorrit](https://jhpoelen.nl) or [Daniel](https://orcid.org/0000-0001-9488-1870).
+If you'd also like to express your support, have ideas on how to help develop these ideas, or are interested to learn more, please contact [Jorrit](https://jhpoelen.nl) or [Daniel](https://orcid.org/0000-0001-9488-1870).
 
 ### References
 - Seltmann KC, Allen J, Brown BV, Carper A, Engel MS, Franz N, Gilbert E, Grinter C, Gonzalez VH, Horsley P, Lee S, Maier C, Miko I, Morris P, Oboyski P, Pierce NE, Poelen J, Scott VL, Smith M, Talamas EJ, Tsutsui ND, Tucker E (2021) Announcing Big-Bee: An initiative to promote understanding of bees through image and trait digitization. Biodiversity Information Science and Standards 5: e74037. [https://doi.org/10.3897/biss.5.74037](https://doi.org/10.3897/biss.5.74037).
