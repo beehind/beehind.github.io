@@ -28,7 +28,7 @@ of complex relations.”
 -------------------------------------------------
 
 
-> I think it takes a (global) village to keep and extend specimen
+> I think it takes a (global) village to keep and extend specimens.
 
 * biologists
 * curators
@@ -43,7 +43,7 @@ of complex relations.”
 
 -------------------------------------------------
 
-> The extended specimen is here, and we are already contributing to it 
+> [The extended specimen is here, and we are already contributing to it.](https://docs.google.com/document/d/14w1JT0AcMnczHvqAEQhenPVMGBvf_ZJPqWazOa0aQyM/edit#)
 
 
 As an open source software developer, ... 
@@ -59,7 +59,7 @@ As a curator, ...
 
 -------------------------------------------------
 
-> Who do I rely on to sustain my work?
+> [Who/what do I rely on to sustain my work?](https://docs.google.com/document/d/14w1JT0AcMnczHvqAEQhenPVMGBvf_ZJPqWazOa0aQyM/edit#)
 
 As an open source developer, ...
 
